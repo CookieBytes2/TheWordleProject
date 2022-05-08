@@ -13,7 +13,7 @@ if __name__ == '__main__':
 
     print("Good starting words: \nFRAME, GRAZE, WINDY, PAINT, GOURD, SWING, VAPES \nAUDIO, FARTS, ADIEU, OUIJA "
           "\nREADY, PEARS, CHIEF, TOUCH\n")
-    words = open('dictionary2.txt', 'r')
+    words = open('dictionary.txt', 'r')
 
     # Starting program sequence.
     while True:
